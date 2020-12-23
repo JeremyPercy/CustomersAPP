@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="SupportecCustomers.Pages.HomePage">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="#252525">
+            <StackLayout
+                   VerticalOptions="CenterAndExpand"
+                   HorizontalOptions="CenterAndExpand">
+                <Image Source="logo_icon.png" WidthRequest="100" Margin="40"/>
+                <Label Text="Welcome to Supportec Customers" TextColor="White" FontSize="Large" FontAttributes="Bold" />
+            </StackLayout>
+            <Grid Grid.Row="2" ColumnSpacing="1" Margin="20">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Button Grid.Column="0" BackgroundColor="#0071A6" TextColor="White" Text="Call" x:Name="BtnCall" Clicked="BtnCall_Clicked" />
+                <Button Grid.Column="1" BackgroundColor="#0071A6" TextColor="White" Text="Email" x:Name="BtnEmail" Clicked="BtnEmail_Clicked" />
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

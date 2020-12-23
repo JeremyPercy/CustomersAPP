@@ -1,0 +1,30 @@
+.btn {
+  &__login {
+    background-color: $lighterGray;
+    color: $lightGray;
+    font-size: 1.8rem;
+    width: 50%;
+    padding: 13px;
+
+    &__bgcolor {
+      background-color: white;
+      &:hover {
+        color: $lightGray;
+      }
+    }
+  }
+
+  &-primary {
+    background-color: $mainBlue;
+    border-color: unset;
+  }
+  &__login-submit {
+    font-size: 1.8rem;
+    width: 83%;
+    padding: 10px;
+    color: #fff;
+    border-radius: 2.5rem;
+    font-weight: 300;
+    margin-top: $spacer;
+  }
+}

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="SupportecCustomers.Pages.Account">
+    <ContentPage.Content>
+        <Grid BackgroundColor="#252525">
+            <Grid x:Name="AccountPage" IsVisible="false">
+            <ScrollView>
+                    <Grid ColumnSpacing="0" RowSpacing="0">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="AUTO" />
+                            <RowDefinition Height="AUTO" />
+                            <RowDefinition Height="20" />
+                            <RowDefinition Height="AUTO" />
+                        </Grid.RowDefinitions>
+
+	                <!-- header background -->
+	                <Image Source="HeaderBackground.jpg" Aspect="AspectFill"/>
+	                <Image  VerticalOptions="End" Aspect="AspectFill" Margin="0,0,0,-1"/>
+
+	                <!-- profile image -->
+	                <Image Source="ProfilePic.png" Margin="0,0,0,-50" HeightRequest="100" WidthRequest="100" HorizontalOptions="Center" VerticalOptions="End"/>
+
+	                <!-- Profile Name -->
+                        <StackLayout Grid.Row="1" HorizontalOptions="Center" Padding="0,100,0,00">
+                            <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                                <Label HorizontalTextAlignment="Center" x:Name="PName" Text="Name" TextColor="White"/>
+                                <Label HorizontalTextAlignment="Center" x:Name="PLastName" Text="Last Name" TextColor="White"/>
+                            </StackLayout>
+                            <Label HorizontalTextAlignment="Center" x:Name="PPhone" Margin="0" Text="Phone Number"  TextColor="White"/>
+                            <Label HorizontalTextAlignment="Center" x:Name="PEmail" Margin="0, -0.5" Text="Email"  TextColor="White"/>
+                             <Button BackgroundColor="#0071A6" TextColor="White" Text="Edit Profile" Margin="20" VerticalOptions="End" Clicked="BtnEditProfile"/>
+                        </StackLayout>
+	               <!-- profile description -->
+                   <StackLayout Grid.Row="3" Padding="40">
+                       <Label Text="Company" HorizontalTextAlignment="Center" FontSize="Large" FontAttributes="Bold" TextColor="White" Margin="0, 10"/>
+	               <Grid HorizontalOptions="Center">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="AUTO" />
+                            <RowDefinition Height="AUTO" />
+                            <RowDefinition Height="AUTO" />
+                            <RowDefinition Height="AUTO" />
+                            <RowDefinition Height="AUTO" />
+                        </Grid.RowDefinitions>
+                       <Grid.ColumnDefinitions>
+                           <ColumnDefinition Width="80" />
+                           <ColumnDefinition Width="*" />
+                       </Grid.ColumnDefinitions>
+                       <Label Text="Name:" TextColor="white" Grid.Column="0" Grid.Row="0"/>
+                       <Label x:Name="CName" TextColor="white" Grid.Column="1" Grid.Row="0"/>
+                       <Label Text="Address:" TextColor="white" Grid.Column="0" Grid.Row="1"/>
+                       <Label x:Name="CAddress" TextColor="white" Grid.Column="1" Grid.Row="1"/>
+                       <Label Text="Zipcode:" TextColor="white" Grid.Column="0" Grid.Row="2"/>
+                       <Label x:Name="CZipcode" TextColor="white" Grid.Column="1" Grid.Row="2"/>
+                       <Label Text="City:" TextColor="white" Grid.Column="0" Grid.Row="3"/>
+                       <Label x:Name="CCity" TextColor="white" Grid.Column="1" Grid.Row="3"/>
+                       <Label Text="Email:" TextColor="white" Grid.Column="0" Grid.Row="4"/>
+                       <Label x:Name="CEmail" TextColor="white" Grid.Column="1" Grid.Row="4"/>
+                       <Label Text="Btw Code:" TextColor="white" Grid.Column="0" Grid.Row="5"/>
+                       <Label x:Name="CBtw" TextColor="white" Grid.Column="1" Grid.Row="5"/>
+                       </Grid>
+                       <Button Grid.Row="4" BackgroundColor="#0071A6" TextColor="White" Text="Edit Company" Clicked="BtnEditCompany" HorizontalOptions="Center" VerticalOptions="End" Margin="0,20,0,40" Padding="10,0,10,0"/>
+                  </StackLayout>
+                    </Grid>
+                </ScrollView>
+                </Grid>
+            <ActivityIndicator HorizontalOptions="Center" VerticalOptions="Center" Color="White" IsRunning="True" x:Name="BusyIndicator" />
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

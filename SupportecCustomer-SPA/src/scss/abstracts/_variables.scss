@@ -1,0 +1,36 @@
+// Fonts website
+// Google font
+@import url("https://fonts.googleapis.com/css?family=Montserrat:200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i");
+
+$font-family-default: "Montserrat", sans-serif;
+$font-family: "Montserrat", sans-serif;
+
+//  Primary Colors
+$mainBlue: #0071a6;
+$darkBlue: #25408f;
+$lightBlue: #00aeef;
+$darkGray: #404254;
+$lightGray: #747e80;
+$lighterGray: #edf1f2;
+$mainGreen: #00ab4e;
+$blue: $mainBlue;
+$red: #f5384f !default;
+$orange: #fd9843 !default;
+$yellow: #fdc100 !default;
+$green: $mainGreen;
+$cyan: #379fe3 !default;
+
+// Font colors
+$colorText: #fff;
+$colorHeaderText: #fff;
+
+// a.
+$colorLink: $mainBlue;
+
+// space between content
+$spacer: 1.6rem;
+$spacer-lg: $spacer * 2;
+
+// Typography
+
+$font-size-base: 1.8rem;

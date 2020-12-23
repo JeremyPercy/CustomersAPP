@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="SupportecCustomers.Pages.ProductPage">
+    <ContentPage.Content>
+        <Grid>
+            <ListView x:Name="LvProducts"
+                      ItemSelected="LvProducts_OnItemSelected"
+                      SeparatorVisibility="None"
+                      HasUnevenRows="True"
+                      BackgroundColor="#252525">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Frame Padding="10"
+                                   HasShadow="False"
+                                   Margin="1">
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="120" />
+                                        <ColumnDefinition Width="*" />
+                                    </Grid.ColumnDefinitions>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="*" />
+                                        <RowDefinition Height="*" />
+                                    </Grid.RowDefinitions>
+                                    <Image Source="{Binding PhotoUrl}"
+                                           Grid.Column="0"
+                                           Grid.RowSpan="4" />
+                                    <StackLayout Orientation="Horizontal"
+                                                 Spacing="10"
+                                                 Grid.Column="1"
+                                                 Grid.Row="0">
+                                        <Image Source="cube_outline.png"
+                                               WidthRequest="20" />
+                                        <Label Text="Product"
+                                               VerticalOptions="Center" />
+                                    </StackLayout>
+                                    <Label Text="{Binding Name}"
+                                           Grid.Column="1"
+                                           Grid.Row="1"
+                                           FontSize="Large"
+                                           FontAttributes="Bold"
+                                           VerticalOptions="Center" />
+                                </Grid>
+                            </Frame>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <ActivityIndicator HorizontalOptions="Center" VerticalOptions="Center" Color="White" IsRunning="True" x:Name="BusyIndicator" />
+            <Label Text="No Products are added" IsVisible="false" TextColor="White" x:Name="NoProducts" HorizontalOptions="Center" VerticalOptions="Center"/>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

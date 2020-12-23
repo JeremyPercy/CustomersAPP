@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="SupportecCustomers.Pages.LoginPage">
+    <ContentPage.Content>
+        <Grid
+            BackgroundColor="#252525">
+            <Grid x:Name="LoginForm">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+            <StackLayout Grid.Row="0" Margin="0,100,0,0" HorizontalOptions="Center">
+                <Image Source="Supportec_Logo.png" WidthRequest="300" />
+                <Label Text="Customers" TextColor="White" HorizontalTextAlignment="Center"/>
+            </StackLayout>
+            <StackLayout Grid.Row="1" Margin="40,0,40,0" VerticalOptions="CenterAndExpand">
+                <Entry Placeholder="Email" PlaceholderColor="#707070" x:Name="EntEmail" HeightRequest="40"/>
+                <Entry Placeholder="Password" PlaceholderColor="#707070" x:Name="EntPassword" HeightRequest="40" IsPassword="True"/>
+                <Button Text="Login" BackgroundColor="#0071A6" TextColor="White" CornerRadius="20" HeightRequest="40" x:Name="BtnLogin" Clicked="BtnLogin_Clicked"></Button>
+            </StackLayout>
+            <StackLayout Grid.Row="2" Padding="20" Orientation="Horizontal" HorizontalOptions="Center">
+                <Label Text="Don't have an account yet?" TextColor="White"></Label>
+                <Label Text="Sign Up" TextColor="#0071A6">
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer x:Name="TapSignUp" Tapped="TapSignUp_Tapped" />
+                    </Label.GestureRecognizers>
+                </Label>
+            </StackLayout>
+                </Grid>
+             <ActivityIndicator HorizontalOptions="Center" VerticalOptions="Center" Color="White" IsRunning="False" x:Name="BusyIndicator" />
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

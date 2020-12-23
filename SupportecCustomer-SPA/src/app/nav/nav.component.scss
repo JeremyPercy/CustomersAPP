@@ -1,0 +1,17 @@
+nav {
+    .navbar-brand {
+        img {
+            max-width: 19rem;
+        }
+    }
+    .dropdown-toggle, .dropdown-item {
+        cursor: pointer;
+    }
+    
+    .dropdown-menu {
+        font-size: 1.6rem;
+    }
+}
+.nav-bg {
+    background-color: #0071a6;
+}

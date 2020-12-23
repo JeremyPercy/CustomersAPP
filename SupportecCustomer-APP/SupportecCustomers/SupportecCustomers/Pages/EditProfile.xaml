@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="SupportecCustomers.Pages.EditProfile">
+    <ContentPage.Content>
+        <Grid BackgroundColor="#252525">
+            <StackLayout Padding="40" HorizontalOptions="Center" BackgroundColor="#252525">
+                <Label Text="Edit your profile information" TextColor="White" Margin="40" HorizontalTextAlignment="Center"/>
+                <Label Text="Email:" TextColor="White" />
+                <Entry Placeholder="Email" PlaceholderColor="#707070" x:Name="EntEmail" HeightRequest="40"/>
+                <Label Text="Name:" TextColor="White" />
+                <Entry Placeholder="Name" PlaceholderColor="#707070" x:Name="EntName" HeightRequest="40"/>
+                <Label Text="Last name:" TextColor="White" />
+                <Entry Placeholder="Last Name" PlaceholderColor="#707070" x:Name="EntLastName" HeightRequest="40"/>
+                <Label Text="Phone" TextColor="White" />
+                <Entry Placeholder="Phone" PlaceholderColor="#707070" x:Name="EntPhone" HeightRequest="40"/>
+                <Button Text="Edit Profile" BackgroundColor="#0071A6" TextColor="White" CornerRadius="20" HeightRequest="40" Clicked="BtnEditProfile"></Button>
+            </StackLayout>
+            </Grid>
+    </ContentPage.Content>
+</ContentPage>

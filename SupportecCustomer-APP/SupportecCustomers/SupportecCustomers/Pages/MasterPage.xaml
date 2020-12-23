@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<MasterDetailPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:pages="clr-namespace:SupportecCustomers.Pages"
+    x:Class="SupportecCustomers.Pages.MasterPage">
+    <MasterDetailPage.Master>
+        <ContentPage Title="Master"
+                     IconImageSource="menu.png"
+                     Padding="0,40,0,0"
+                     BackgroundColor="#1F232A">
+            <StackLayout>
+                <Grid>
+                        <Image Source="Supportec_Logo.png" WidthRequest="200" Margin="20"/>
+                </Grid>
+                <StackLayout Orientation="Horizontal" Margin="20,20,0,0" Spacing="20">
+                    <Image Source="home_white.png" />
+                    <Label Text="Home" FontSize="Medium" VerticalOptions="Center" TextColor="White" />
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer x:Name="TapHome" Tapped="TapHome_Tapped"/>
+                    </StackLayout.GestureRecognizers>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal" Margin="20,20,0,0" Spacing="20">
+                    <Image Source="cube_outline_white.png" />
+                    <Label Text="Products" FontSize="Medium" VerticalOptions="Center" TextColor="White" />
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer x:Name="TapProducts" Tapped="TapProducts_Tapped"/>
+                    </StackLayout.GestureRecognizers>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal" Margin="20,20,0,0" Spacing="20">
+                    <Image Source="account_edit_white.png" />
+                    <Label Text="Edit Account" FontSize="Medium" VerticalOptions="Center" TextColor="White" />
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer x:Name="TapEditAcount" Tapped="TapEditAcount_Tapped"/>
+                    </StackLayout.GestureRecognizers>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal" Margin="20,20,0,0" Spacing="20">
+                    <Image Source="logout_variant_white.png" />
+                    <Label Text="Logout" FontSize="Medium" VerticalOptions="Center" TextColor="White" />
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer x:Name="TapLogout" Tapped="TapLogout_Tapped"/>
+                    </StackLayout.GestureRecognizers>
+                </StackLayout>
+            </StackLayout>
+        </ContentPage>
+    </MasterDetailPage.Master>
+    <MasterDetailPage.Detail>
+        <NavigationPage>
+            <x:Arguments>
+                <pages:HomePage></pages:HomePage>
+            </x:Arguments>
+        </NavigationPage>
+    </MasterDetailPage.Detail>
+</MasterDetailPage>

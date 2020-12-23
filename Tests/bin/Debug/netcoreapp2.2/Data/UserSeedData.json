@@ -1,0 +1,117 @@
+[
+  {
+    "Email": "headmccarty@cogentry.com",
+    "Password": "password",
+    "Created": "2017-04-08",
+    "Name": "Sears",
+    "LastName": "Mack",
+    "Phone": "(871) 461-3760",
+    "Company": {
+      "Name": "Confrenzy",
+      "Address": "Grant Avenue",
+      "Zipcode": "0000AA",
+      "City": "Trucksville",
+      "Email": "colonfarley@geekmosis.com",
+      "BtwCode": "BTW00000000000000"
+    },
+    "Photos": [
+      {
+        "url": "https://randomuser.me/api/portraits/women/31.jpg",
+        "isMain": true,
+        "description": "Consectetur occaecat sint velit cillum labore aliquip Lorem mollit eiusmod exercitation enim eu occaecat reprehenderit."
+      }
+    ]
+  },
+  {
+    "Email": "colonfarley@geekmosis.com",
+    "Password": "password",
+    "Created": "2017-02-25",
+    "Name": "Hunter",
+    "LastName": "Gordon",
+    "Phone": "(924) 513-2448",
+    "Company": {
+      "Name": "Viagreat",
+      "Address": "Interborough Parkway",
+      "Zipcode": "0000AA",
+      "City": "Norfolk",
+      "Email": "frankwilliamson@ceprene.com",
+      "BtwCode": "BTW00000000000000"
+    },
+    "Photos": [
+      {
+        "url": "https://randomuser.me/api/portraits/women/54.jpg",
+        "isMain": true,
+        "description": "Lorem sunt fugiat occaecat dolore exercitation dolor mollit eu commodo elit."
+      }
+    ]
+  },
+  {
+    "Email": "frankwilliamson@ceprene.com",
+    "Password": "password",
+    "Created": "2017-05-20",
+    "Name": "Branch",
+    "LastName": "Henson",
+    "Phone": "(885) 515-2268",
+    "Company": {
+      "Name": "Pearlesex",
+      "Address": "Montieth Street",
+      "Zipcode": "0000AA",
+      "City": "Grimsley",
+      "Email": "evangelinegomez@daisu.com",
+      "BtwCode": "BTW00000000000000"
+    },
+    "Photos": [
+      {
+        "url": "https://randomuser.me/api/portraits/women/89.jpg",
+        "isMain": true,
+        "description": "Aliquip officia officia aliqua voluptate magna dolore laborum enim eu non nulla."
+      }
+    ]
+  },
+  {
+    "Email": "evangelinegomez@daisu.com",
+    "Password": "password",
+    "Created": "2017-04-27",
+    "Name": "Nannie",
+    "LastName": "Cohen",
+    "Phone": "(836) 428-2396",
+    "Company": {
+      "Name": "Klugger",
+      "Address": "Amity Street",
+      "Zipcode": "0000AA",
+      "City": "Sperryville",
+      "Email": "kimberleyhogan@ecosys.com",
+      "BtwCode": "BTW00000000000000"
+    },
+    "Photos": [
+      {
+        "url": "https://randomuser.me/api/portraits/women/93.jpg",
+        "isMain": true,
+        "description": "Occaecat consequat ut reprehenderit deserunt tempor elit culpa reprehenderit nostrud minim sint elit."
+      }
+    ]
+  },
+  {
+    "Email": "kimberleyhogan@ecosys.com",
+    "Password": "password",
+    "Created": "2017-04-04",
+    "Name": "Dillard",
+    "LastName": "Duran",
+    "Phone": "(969) 405-3679",
+    "Company": {
+      "Name": "Bleeko",
+      "Address": "Irving Avenue",
+      "Zipcode": "0000AA",
+      "City": "Rowe",
+      "Email": "barreramelton@rockyard.com",
+      "BtwCode": "BTW00000000000000"
+    },
+    "Photos": [
+      {
+        "url": "https://randomuser.me/api/portraits/women/9.jpg",
+        "isMain": true,
+        "description": "Minim elit exercitation velit tempor duis esse ullamco fugiat do enim exercitation ex."
+      }
+    ]
+  }
+]

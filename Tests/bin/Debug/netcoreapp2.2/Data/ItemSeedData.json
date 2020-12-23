@@ -1,0 +1,1562 @@
+[
+    {
+        "Code": "010001",
+        "Description": "Zit/rug orthese vast",
+        "Price": "331.70"
+    },
+    {
+        "Code": "010002",
+        "Description": "Zit/rug orthese gedeeld",
+        "Price": "331.70"
+    },
+    {
+        "Code": "010003",
+        "Description": "Flexie orthese",
+        "Price": "331.70"
+    },
+    {
+        "Code": "010004",
+        "Description": "Relaxzetelorthese, niet gedeeld, voor Orthomed",
+        "Price": "331.70"
+    },
+    {
+        "Code": "010020",
+        "Description": "Orthese-zitting soft",
+        "Price": "186.28"
+    },
+    {
+        "Code": "010030",
+        "Description": "Orthese-rug soft",
+        "Price": "186.28"
+    },
+    {
+        "Code": "011001",
+        "Description": "ABS zit/rug orthese",
+        "Price": "716.28"
+    },
+    {
+        "Code": "011002",
+        "Description": "ABS zit/rug orthese gedeeld",
+        "Price": "716.28"
+    },
+    {
+        "Code": "0110031",
+        "Description": "MeerPrice orthese versmald met strook",
+        "Price": "5.11"
+    },
+    {
+        "Code": "011013",
+        "Description": "ABS orthese BOSS standaard maat 3",
+        "Price": "388.32"
+    },
+    {
+        "Code": "011014",
+        "Description": "Styropor mal",
+        "Price": "295.00"
+    },
+    {
+        "Code": "011030",
+        "Description": "ABS rug orthese",
+        "Price": "348.54"
+    },
+    {
+        "Code": "012001",
+        "Description": "Partiële ligorthese",
+        "Price": "331.70"
+    },
+    {
+        "Code": "013003",
+        "Description": "Ligorthese",
+        "Price": "662.20"
+    },
+    {
+        "Code": "020010",
+        "Description": "Op- en afbouwen orthese",
+        "Price": "63.88"
+    },
+    {
+        "Code": "020011",
+        "Description": "Plank op maat onder ABS orthese",
+        "Price": "63.88"
+    },
+    {
+        "Code": "020012",
+        "Description": "Orthesedelen passend maken in aluminium schaal",
+        "Price": "63.86"
+    },
+    {
+        "Code": "020020",
+        "Description": "Zitting inbouwen in houten ortheseschaal",
+        "Price": "112.97"
+    },
+    {
+        "Code": "020021",
+        "Description": "Zitting inbouwen in houten ortheseschaal, zijschotten 9mm",
+        "Price": "112.97"
+    },
+    {
+        "Code": "020022",
+        "Description": "Zitting inbouwen in ABS orthese schaal",
+        "Price": "112.97"
+    },
+    {
+        "Code": "020030",
+        "Description": "Rug inbouwen in rondhout R500",
+        "Price": "112.97"
+    },
+    {
+        "Code": "020031",
+        "Description": "Rug inbouwen in recht rughout",
+        "Price": "112.97"
+    },
+    {
+        "Code": "020032",
+        "Description": "Rug inbouwen in abs orthese schaal",
+        "Price": "112.97"
+    },
+    {
+        "Code": "020033",
+        "Description": "Rug inbouwen in rondhout, met 9mm zijschotten",
+        "Price": "112.97"
+    },
+    {
+        "Code": "020040",
+        "Description": "Voorzijde zitting afschuinen negatieve kniehoek",
+        "Price": "6.00"
+    },
+    {
+        "Code": "020041",
+        "Description": "Alu plaatjes op 2,5 cm vanaf binnenzijde vorm",
+        "Price": "66.10"
+    },
+    {
+        "Code": "0200411",
+        "Description": "MeerPrice gebruik van hardere aluminium platen",
+        "Price": "7.66"
+    },
+    {
+        "Code": "020042",
+        "Description": "Sleuven t.b.v. positioneringsmateriaal",
+        "Price": "14.43"
+    },
+    {
+        "Code": "0200421",
+        "Description": "Slots for positioning material including tubes",
+        "Price": "16.96"
+    },
+    {
+        "Code": "020044",
+        "Description": "Beplakken met polyether schuim .. cm",
+        "Price": "42.05"
+    },
+    {
+        "Code": "020045",
+        "Description": "Beplakken met speciaal schuim",
+        "Price": "36.05"
+    },
+    {
+        "Code": "020046",
+        "Description": "Orthese voorzien van anti-slip aan onderzijde",
+        "Price": "18.03"
+    },
+    {
+        "Code": "020047",
+        "Description": "Voorzien of beplakken van orthese met passtof",
+        "Price": "41.45"
+    },
+    {
+        "Code": "020048",
+        "Description": "Ventilatiegaten in rugleuning",
+        "Price": "54.74"
+    },
+    {
+        "Code": "020049",
+        "Description": "Drainage gaten in orthese",
+        "Price": "56.63"
+    },
+    {
+        "Code": "020050",
+        "Description": "Extra laag evazote",
+        "Price": "72.10"
+    },
+    {
+        "Code": "020051",
+        "Description": "Inslagmoeren monteren tbv hoofdsteun adaptie",
+        "Price": "11.27"
+    },
+    {
+        "Code": "020052",
+        "Description": "Inslagmoeren tbv onderstel monteren",
+        "Price": "11.27"
+    },
+    {
+        "Code": "020053",
+        "Description": "Triplexplaatje met tillussen per stuk",
+        "Price": "22.13"
+    },
+    {
+        "Code": "020054",
+        "Description": "Beplakken met PTI",
+        "Price": "18.03"
+    },
+    {
+        "Code": "020055",
+        "Description": "Beplakken met inlegvel tbv coating",
+        "Price": "18.03"
+    },
+    {
+        "Code": "020056",
+        "Description": "Bedhuls t.b.v. ligorthese per stuk",
+        "Price": "2.53"
+    },
+    {
+        "Code": "020057",
+        "Description": "Inslagmoeren WZ Sedeo original/Pro onderstel monteren",
+        "Price": "11.27"
+    },
+    {
+        "Code": "020058",
+        "Description": "Sleuven in lateralen voor inbouw Reflex Corpus schaal",
+        "Price": "14.43"
+    },
+    {
+        "Code": "020059",
+        "Description": "Hoesmousse EV30 1 cm",
+        "Price": "36.05"
+    },
+    {
+        "Code": "020060",
+        "Description": "Haakjes (4 stuks) bevestigen aan zijkant van de orthese",
+        "Price": "11.27"
+    },
+    {
+        "Code": "020061",
+        "Description": "Beplakken van orthese met waterdichte badstof",
+        "Price": "49.95"
+    },
+    {
+        "Code": "020101",
+        "Description": "Inhammen lateraal van de heupen",
+        "Price": "0.00"
+    },
+    {
+        "Code": "020999",
+        "Description": "Diverse opties",
+        "Price": "0.00"
+    },
+    {
+        "Code": "021001",
+        "Description": "Bevestigingsset (à 2 stuks) voor ABS orthese",
+        "Price": "236.76"
+    },
+    {
+        "Code": "021002",
+        "Description": "Bevestigingsset (à 4 stuks) voor ABS orthese",
+        "Price": "307.67"
+    },
+    {
+        "Code": "021003",
+        "Description": "Sedeo montageset",
+        "Price": "107.62"
+    },
+    {
+        "Code": "021004",
+        "Description": "Monteren bevestigingsmateriaal Sedeo pro",
+        "Price": "16.56"
+    },
+    {
+        "Code": "021009",
+        "Description": "Montageset Invacare Azalea los meeleveren",
+        "Price": "22.46"
+    },
+    {
+        "Code": "021014",
+        "Description": "Hendel met haak voor abductieklos los per stuk",
+        "Price": "45.00"
+    },
+    {
+        "Code": "021015",
+        "Description": "Quick release voor abductieklos los per stuk",
+        "Price": "92.38"
+    },
+    {
+        "Code": "021110",
+        "Description": "Easy Connect mountingsystem rug/zit onderdelen los leveren",
+        "Price": "40.84"
+    },
+    {
+        "Code": "021112",
+        "Description": "Montage banden bevestigd met inslagmoeren Tsimetria",
+        "Price": "20.42"
+    },
+    {
+        "Code": "022000",
+        "Description": "Pur basis onder ABS orthese",
+        "Price": "155.70"
+    },
+    {
+        "Code": "022002",
+        "Description": "Montageset: Sedeo Original zitorthese ronde rug (9)",
+        "Price": "169.00"
+    },
+    {
+        "Code": "022003",
+        "Description": "Montageset: Sedeo Original ortheserug ronde rug (10)",
+        "Price": "84.50"
+    },
+    {
+        "Code": "022004",
+        "Description": "Montageset: Sedeo Original orthesezitting",
+        "Price": "84.50"
+    },
+    {
+        "Code": "022005",
+        "Description": "Montageset: Sedeo Original orthese gedeeld ronde rug (12)",
+        "Price": "169.00"
+    },
+    {
+        "Code": "022006",
+        "Description": "Montageset: Sedeo Original zitorthese rechte rug",
+        "Price": "169.00"
+    },
+    {
+        "Code": "022007",
+        "Description": "Montageset: Sedeo Original ortheserug rechte rug",
+        "Price": "84.50"
+    },
+    {
+        "Code": "022008",
+        "Description": "Montageset: Sedeo Original orthese gedeeld rechte rug",
+        "Price": "169.00"
+    },
+    {
+        "Code": "022009",
+        "Description": "Montageset: Sedeo Pro zitorthese ronde rug (6)",
+        "Price": "169.00"
+    },
+    {
+        "Code": "022010",
+        "Description": "Montageset: Sedeo Pro ortheserug ronde rug (7)",
+        "Price": "84.50"
+    },
+    {
+        "Code": "022011",
+        "Description": "Montageset: Sedeo Pro orthesezitting (8)",
+        "Price": "84.50"
+    },
+    {
+        "Code": "022012",
+        "Description": "Montageset: Sedeo Pro orthese gedeeld ronde rug",
+        "Price": "169.00"
+    },
+    {
+        "Code": "022013",
+        "Description": "Montageset: Sedeo Pro zitorthese rechte rug",
+        "Price": "169.00"
+    },
+    {
+        "Code": "022014",
+        "Description": "Montageset: Sedeo Pro ortheserug  rechte rug",
+        "Price": "84.50"
+    },
+    {
+        "Code": "022015",
+        "Description": "Montageset: Sedeo Pro orthese gedeeld rechte rug",
+        "Price": "169.00"
+    },
+    {
+        "Code": "022016",
+        "Description": "Montageset: Roxx New Original zitorthese 37cm",
+        "Price": "169.00"
+    },
+    {
+        "Code": "022017",
+        "Description": "Montageset: Roxx New Original ortheserug 37cm",
+        "Price": "84.50"
+    },
+    {
+        "Code": "022018",
+        "Description": "Montageset: Roxx New Original orthesezitting 37cm",
+        "Price": "84.50"
+    },
+    {
+        "Code": "022019",
+        "Description": "Montageset: Roxx New Original zitorthese 42cm",
+        "Price": "169.00"
+    },
+    {
+        "Code": "022020",
+        "Description": "Montageset: Roxx New Original ortheserug 42cm",
+        "Price": "84.50"
+    },
+    {
+        "Code": "022021",
+        "Description": "Montageset: Roxx New Original orthesezitting 42cm",
+        "Price": "84.50"
+    },
+    {
+        "Code": "022022",
+        "Description": "Montageset: Roxx New Original zitorthese 47cm",
+        "Price": "169.00"
+    },
+    {
+        "Code": "022023",
+        "Description": "Montageset: Roxx New Original ortheserug 47cm",
+        "Price": "84.50"
+    },
+    {
+        "Code": "022024",
+        "Description": "Montageset: Roxx New Original orthesezitting 47cm",
+        "Price": "84.50"
+    },
+    {
+        "Code": "022025",
+        "Description": "Montageset: Roxx New Original zitorthese 52cm",
+        "Price": "169.00"
+    },
+    {
+        "Code": "022026",
+        "Description": "Montageset: Roxx New Original ortheserug 52cm",
+        "Price": "84.50"
+    },
+    {
+        "Code": "022027",
+        "Description": "Montageset: Roxx New Original orthesezitting 52cm",
+        "Price": "84.50"
+    },
+    {
+        "Code": "022028",
+        "Description": "Montageset: Roxx New Original zitorthese 57cm",
+        "Price": "169.00"
+    },
+    {
+        "Code": "022029",
+        "Description": "Montageset: Roxx New Original ortheserug 57cm",
+        "Price": "84.50"
+    },
+    {
+        "Code": "022030",
+        "Description": "Montageset: Roxx New Original orthesezitting 57cm",
+        "Price": "84.50"
+    },
+    {
+        "Code": "022031",
+        "Description": "Montageset: Canto zitorthese 37cm",
+        "Price": "169.00"
+    },
+    {
+        "Code": "022032",
+        "Description": "Montageset: Canto ortheserug 37cm",
+        "Price": "84.50"
+    },
+    {
+        "Code": "022033",
+        "Description": "Montageset: Canto orthesezitting 37cm",
+        "Price": "84.50"
+    },
+    {
+        "Code": "022034",
+        "Description": "Montageset: Canto zitorthese 42cm",
+        "Price": "169.00"
+    },
+    {
+        "Code": "022035",
+        "Description": "Montageset: Canto ortheserug 42cm",
+        "Price": "84.50"
+    },
+    {
+        "Code": "022036",
+        "Description": "Montageset: Canto orthesezitting 42cm",
+        "Price": "84.50"
+    },
+    {
+        "Code": "022037",
+        "Description": "Montageset: Canto zitorthese 47cm",
+        "Price": "169.00"
+    },
+    {
+        "Code": "022038",
+        "Description": "Montageset: Canto ortheserug 47cm",
+        "Price": "84.50"
+    },
+    {
+        "Code": "022039",
+        "Description": "Montageset: Canto orthesezitting 47cm",
+        "Price": "84.50"
+    },
+    {
+        "Code": "022040",
+        "Description": "Montageset: Canto zitorthese 52cm",
+        "Price": "169.00"
+    },
+    {
+        "Code": "022041",
+        "Description": "Montageset: Canto ortheserug 52cm",
+        "Price": "84.50"
+    },
+    {
+        "Code": "022042",
+        "Description": "Montageset: Canto orthesezitting 52cm",
+        "Price": "84.50"
+    },
+    {
+        "Code": "022043",
+        "Description": "Montageset: Canto zitorthese 57cm",
+        "Price": "169.00"
+    },
+    {
+        "Code": "022044",
+        "Description": "Montageset: Canto ortheserug 57cm",
+        "Price": "84.50"
+    },
+    {
+        "Code": "022045",
+        "Description": "Montageset: Canto orthesezitting 57cm",
+        "Price": "84.50"
+    },
+    {
+        "Code": "022046",
+        "Description": "Cantobusjes",
+        "Price": "2.40"
+    },
+    {
+        "Code": "022047",
+        "Description": "Zitting beugelset tbv Quicky Easy life I (set van 4)",
+        "Price": "169.00"
+    },
+    {
+        "Code": "022048",
+        "Description": "Montageset rug R82 lamelfixator, 1 zijde 4 stuks",
+        "Price": "84.50"
+    },
+    {
+        "Code": "022100",
+        "Description": "Montageset: Canto Next zit/rug orthese alle maten (1)",
+        "Price": "169.00"
+    },
+    {
+        "Code": "022101",
+        "Description": "Montageset: Canto Next/Roxx NO rugorthese alle maten (2)",
+        "Price": "84.50"
+    },
+    {
+        "Code": "022102",
+        "Description": "Montageset: Canto Next orthesezitting alle maten (3)",
+        "Price": "84.50"
+    },
+    {
+        "Code": "022103",
+        "Description": "Montageset: Roxx NO zit/rug orthese alle maten (4)",
+        "Price": "169.00"
+    },
+    {
+        "Code": "022104",
+        "Description": "Montageset: Roxx NO orthese zitting (5)",
+        "Price": "84.50"
+    },
+    {
+        "Code": "022200",
+        "Description": "Hoofdsteun: bevestiging gebogen, haaks, hoogte en diepte ins",
+        "Price": "32.26"
+    },
+    {
+        "Code": "022201",
+        "Description": "Kunststof fixatienok (voor hoofdsteun)",
+        "Price": "8.61"
+    },
+    {
+        "Code": "022202",
+        "Description": "Hoofdsteunhouder 35/35",
+        "Price": "19.38"
+    },
+    {
+        "Code": "022203",
+        "Description": "Hoofdsteunhouder 35/35-50/50 tbv gesingelde rug",
+        "Price": "22.62"
+    },
+    {
+        "Code": "022204",
+        "Description": "Hoofdsteun verzetplaat (a-symmetrisch)",
+        "Price": "21.90"
+    },
+    {
+        "Code": "022205",
+        "Description": "Hoofdsteun breedte instelling",
+        "Price": "37.00"
+    },
+    {
+        "Code": "030040",
+        "Description": "Stofferen van hoofdsteun",
+        "Price": "35.46"
+    },
+    {
+        "Code": "030041",
+        "Description": "Stofferen van hoofdsteun met nekrol",
+        "Price": "42.59"
+    },
+    {
+        "Code": "030050",
+        "Description": "Stofferen van armleggers incl. stootrand rondom",
+        "Price": "86.54"
+    },
+    {
+        "Code": "030051",
+        "Description": "Stofferen van armleggers incl. stootrand 3-kwart.",
+        "Price": "86.54"
+    },
+    {
+        "Code": "030052",
+        "Description": "Stofferen armleggers zonder stootrand",
+        "Price": "86.54"
+    },
+    {
+        "Code": "030053",
+        "Description": "Stofferen armleggers als nuage zonder stootrand",
+        "Price": "98.66"
+    },
+    {
+        "Code": "030055",
+        "Description": "Stofferen voetplaat uit één geheel",
+        "Price": "55.97"
+    },
+    {
+        "Code": "030056",
+        "Description": "Stofferen van losse voetplaat per stuk",
+        "Price": "41.33"
+    },
+    {
+        "Code": "030057",
+        "Description": "Stofferen van kuitplaat uit één geheel",
+        "Price": "55.97"
+    },
+    {
+        "Code": "030058",
+        "Description": "Stofferen losse kuitplaat per stuk",
+        "Price": "34.72"
+    },
+    {
+        "Code": "030060",
+        "Description": "Stofferen van abductieklos",
+        "Price": "37.55"
+    },
+    {
+        "Code": "030070",
+        "Description": "Embleem/logo op orthese per stuk",
+        "Price": "10.15"
+    },
+    {
+        "Code": "030071",
+        "Description": "Stofferen van ligorthese volledig met zoom en skai",
+        "Price": "701.94"
+    },
+    {
+        "Code": "030990",
+        "Description": "Skai stof per meter",
+        "Price": "24.65"
+    },
+    {
+        "Code": "030991",
+        "Description": "Platilon stof per meter",
+        "Price": "25.49"
+    },
+    {
+        "Code": "030992",
+        "Description": "Stamskin stof per meter",
+        "Price": "42.57"
+    },
+    {
+        "Code": "030993",
+        "Description": "3-D mesh stof per meter",
+        "Price": "39.37"
+    },
+    {
+        "Code": "030994",
+        "Description": "Zoomstof per meter",
+        "Price": "63.88"
+    },
+    {
+        "Code": "030995",
+        "Description": "Platilon gelamineerd met schuim aan achterzijde",
+        "Price": "38.53"
+    },
+    {
+        "Code": "030996",
+        "Description": "Backingschuim SG20 per meter",
+        "Price": "15.98"
+    },
+    {
+        "Code": "030997",
+        "Description": "Passtof per meter",
+        "Price": "6.03"
+    },
+    {
+        "Code": "030998",
+        "Description": "Skai stof per meter- carbonstof/skai grijs palma",
+        "Price": "28.70"
+    },
+    {
+        "Code": "030999",
+        "Description": "Diverse stofferen",
+        "Price": "0.00"
+    },
+    {
+        "Code": "031034",
+        "Description": "Badstofhoes zit/rug orthese uit 1 deel door SU",
+        "Price": "156.21"
+    },
+    {
+        "Code": "031070",
+        "Description": "Digitaal stofferen ligorthese DDU/WPS",
+        "Price": "631.74"
+    },
+    {
+        "Code": "031071",
+        "Description": "Digitaal stofferen ligorthese rug zoom zitting+benen DDU/WPS",
+        "Price": "542.41"
+    },
+    {
+        "Code": "032020",
+        "Description": "Paszak zitting 30 cm latex free",
+        "Price": "395.14"
+    },
+    {
+        "Code": "032021",
+        "Description": "Paszak zitting 35 cm latex free",
+        "Price": "408.84"
+    },
+    {
+        "Code": "032022",
+        "Description": "Paszak zitting 40 cm latex free",
+        "Price": "428.69"
+    },
+    {
+        "Code": "032023",
+        "Description": "Paszak zitting 45 cm latex free",
+        "Price": "438.62"
+    },
+    {
+        "Code": "032030",
+        "Description": "Paszak rug 30 cm latex free",
+        "Price": "395.14"
+    },
+    {
+        "Code": "032031",
+        "Description": "Paszak rug 35 cm latex free",
+        "Price": "408.84"
+    },
+    {
+        "Code": "032032",
+        "Description": "Paszak rug 40 cm latex free",
+        "Price": "428.69"
+    },
+    {
+        "Code": "032033",
+        "Description": "Paszak rug 45 cm latex free",
+        "Price": "438.62"
+    },
+    {
+        "Code": "032060",
+        "Description": "Paszak vlak 900x800 mm latexfree",
+        "Price": "553.98"
+    },
+    {
+        "Code": "032070",
+        "Description": "Paszak lig 1600x900 mm latex free",
+        "Price": "903.59"
+    },
+    {
+        "Code": "032071",
+        "Description": "Paszak lig 1900x900 mm latex free",
+        "Price": 1021.49
+    },
+    {
+        "Code": "032090",
+        "Description": "Pomp incl. slangen t.b.v. paszakken",
+        "Price": "551.34"
+    },
+    {
+        "Code": "032091",
+        "Description": "Slang inclusief ventiel voor paszakken",
+        "Price": "40.84"
+    },
+    {
+        "Code": "041040",
+        "Description": "Vulcaniseren hoofdsteun",
+        "Price": "70.80"
+    },
+    {
+        "Code": "041050",
+        "Description": "Vulcaniseren armleggers",
+        "Price": "1.07"
+    },
+    {
+        "Code": "042090",
+        "Description": "Borduren naam in stoffering",
+        "Price": "12.92"
+    },
+    {
+        "Code": "050010",
+        "Description": "Badstofhoes zit/rug orthese uit 1 deel",
+        "Price": "167.06"
+    },
+    {
+        "Code": "050011",
+        "Description": "Badstofhoes los zit/rug orthese",
+        "Price": "221.15"
+    },
+    {
+        "Code": "050020",
+        "Description": "Badstofhoes orthese zitting",
+        "Price": "110.57"
+    },
+    {
+        "Code": "050030",
+        "Description": "Badstofhoes orthese rug",
+        "Price": "110.57"
+    },
+    {
+        "Code": "050040",
+        "Description": "Badstofhoes voor hoofdsteun",
+        "Price": "70.67"
+    },
+    {
+        "Code": "050050",
+        "Description": "Badstofhoes voor paar armleggers",
+        "Price": "35.99"
+    },
+    {
+        "Code": "050060",
+        "Description": "Badstofhoes partiële ligorthese",
+        "Price": "110.57"
+    },
+    {
+        "Code": "050061",
+        "Description": "Badstofhoes waterdicht partiële ligorthese",
+        "Price": "332.95"
+    },
+    {
+        "Code": "050062",
+        "Description": "Waterdichte badstofhoes los zit/rug orthese",
+        "Price": "273.36"
+    },
+    {
+        "Code": "050070",
+        "Description": "Badstofhoes ligorthese",
+        "Price": "122.59"
+    },
+    {
+        "Code": "050071",
+        "Description": "Badstofhoes waterdicht zonder lasnaden voor ligorthese",
+        "Price": "178.68"
+    },
+    {
+        "Code": "050900",
+        "Description": "Bekken/been/enkelband op maat van neopreen/clipsluiting",
+        "Price": "35.99"
+    },
+    {
+        "Code": "050901",
+        "Description": "Elastiek met rok-sluiting aan badstofhoes",
+        "Price": "2.82"
+    },
+    {
+        "Code": "050902",
+        "Description": "Borst/bekken/benen band met kussentje i.c.m. klittenbandclipsluiting",
+        "Price": "15.68"
+    },
+    {
+        "Code": "050903",
+        "Description": "Ventilatiematje van aerosleepstof omzoomd met band",
+        "Price": "53.22"
+    },
+    {
+        "Code": "050904",
+        "Description": "Sorbofyldoekje omzoomd met biaisband 20 x 30 cm",
+        "Price": "21.31"
+    },
+    {
+        "Code": "050905",
+        "Description": "Badstofhoes voorzien van zijde bij hoofdgedeelte Z20",
+        "Price": "40.54"
+    },
+    {
+        "Code": "050906",
+        "Description": "Badstofhoes voorzien van zijde bij hoofdgedeelte Z121",
+        "Price": "49.72"
+    },
+    {
+        "Code": "050907",
+        "Description": "Drukverdelings-insert voorzien van platilon hoes",
+        "Price": "56.16"
+    },
+    {
+        "Code": "050910",
+        "Description": "Stofferen van houten orthese schaal inclusief stootrand",
+        "Price": "114.66"
+    },
+    {
+        "Code": "050911",
+        "Description": "Stofferen van houten orthese zitting inclusief stootrand",
+        "Price": "88.19"
+    },
+    {
+        "Code": "050912",
+        "Description": "Stofferen van houten orthese rug inclusief stootrand",
+        "Price": "70.55"
+    },
+    {
+        "Code": "050935",
+        "Description": "Badstof per meter",
+        "Price": "24.18"
+    },
+    {
+        "Code": "050936",
+        "Description": "Badstof waterdicht (gelamineerd) per meter",
+        "Price": "31.65"
+    },
+    {
+        "Code": "050999",
+        "Description": "Diversen badstofhoezen",
+        "Price": "0.00"
+    },
+    {
+        "Code": "060010",
+        "Description": "Coaten van zit/rug orthese met inlegvel",
+        "Price": "252.38"
+    },
+    {
+        "Code": "060011",
+        "Description": "Coaten binnenzijde zit/rug orthese met inlegvel",
+        "Price": "126.19"
+    },
+    {
+        "Code": "060012",
+        "Description": "Coaten itura orthese zonder inlegvel",
+        "Price": "195.00"
+    },
+    {
+        "Code": "060020",
+        "Description": "Coaten van orthese-zitting met inlegvel",
+        "Price": "127.39"
+    },
+    {
+        "Code": "060021",
+        "Description": "Coaten binnenzijde orthese-zitting met inlegvel",
+        "Price": "63.70"
+    },
+    {
+        "Code": "060030",
+        "Description": "Coaten van orthese-rug met inlegvel",
+        "Price": "127.39"
+    },
+    {
+        "Code": "060031",
+        "Description": "Coaten binnenzijde orthese-rug met inlegvel",
+        "Price": "63.70"
+    },
+    {
+        "Code": "060040",
+        "Description": "Coaten van hoofdsteun",
+        "Price": "101.98"
+    },
+    {
+        "Code": "060060",
+        "Description": "Coaten van partiële ligorthese met inlegvel",
+        "Price": "145.42"
+    },
+    {
+        "Code": "0600601",
+        "Description": "Coaten van partiële ligorthese met inlegvel na tussenpas",
+        "Price": "181.16"
+    },
+    {
+        "Code": "060070",
+        "Description": "Coaten ligorthese met inlegvel",
+        "Price": "270.41"
+    },
+    {
+        "Code": "0600701",
+        "Description": "Coaten ligorthese met inlegvel na tussenpas",
+        "Price": "306.15"
+    },
+    {
+        "Code": "060999",
+        "Description": "Coaten diversen",
+        "Price": "0.00"
+    },
+    {
+        "Code": "070010",
+        "Description": "Armleggers P-vormig naar maat omgepolsterd",
+        "Price": "41.29"
+    },
+    {
+        "Code": "0700101",
+        "Description": "Armleggers P-vormig naar maat omgepolsterd",
+        "Price": "41.29"
+    },
+    {
+        "Code": "070020",
+        "Description": "Armleggers rechthoekig naar maat omgepolsterd",
+        "Price": "41.29"
+    },
+    {
+        "Code": "070999",
+        "Description": "Diversen armleggers",
+        "Price": "0.00"
+    },
+    {
+        "Code": "080015",
+        "Description": "Hoofdsteun miniflex",
+        "Price": "41.75"
+    },
+    {
+        "Code": "080016",
+        "Description": "Hoofdsteun Mini anatomisch model",
+        "Price": "53.22"
+    },
+    {
+        "Code": "080020",
+        "Description": "Hoofdsteun (small) trapezium model",
+        "Price": "25.42"
+    },
+    {
+        "Code": "080030",
+        "Description": "Hoofdsteun Medium",
+        "Price": "25.42"
+    },
+    {
+        "Code": "080040",
+        "Description": "Hoofdsteun Large",
+        "Price": "25.42"
+    },
+    {
+        "Code": "080050",
+        "Description": "Hoofdsteunverstelsysteem in hoogte en diepte verstelbaar",
+        "Price": "32.26"
+    },
+    {
+        "Code": "080051",
+        "Description": "Hoofdsteunverstelsysteem 3 scharnierpunten lamellen",
+        "Price": "44.07"
+    },
+    {
+        "Code": "080052",
+        "Description": "Hoofdsteun adaptie",
+        "Price": "17.68"
+    },
+    {
+        "Code": "080053",
+        "Description": "Hoofdsteun breedte instelling",
+        "Price": "0.00"
+    },
+    {
+        "Code": "080999",
+        "Description": "Diversen hoofdsteun",
+        "Price": "0.00"
+    },
+    {
+        "Code": "090010",
+        "Description": "Abductieklos uitzagen",
+        "Price": "6.01"
+    },
+    {
+        "Code": "090011",
+        "Description": "Abductieklos op maat",
+        "Price": "40.79"
+    },
+    {
+        "Code": "090020",
+        "Description": "Abductieklos naar voren uitneembaar incl. ijzerwerk",
+        "Price": "198.31"
+    },
+    {
+        "Code": "090021",
+        "Description": "Abductieklos naar voren uitneembaar Quick release",
+        "Price": "142.82"
+    },
+    {
+        "Code": "090030",
+        "Description": "Abductieklos naar boven uitneembaar incl. ijzerwerk",
+        "Price": "198.31"
+    },
+    {
+        "Code": "090040",
+        "Description": "Abductieklos wegklapbaar incl. ijzerwerk",
+        "Price": "198.31"
+    },
+    {
+        "Code": "090999",
+        "Description": "Diversen abductieklos",
+        "Price": "0.00"
+    },
+    {
+        "Code": "0950010",
+        "Description": "Voetplaat uit één geheel naar maat",
+        "Price": "63.86"
+    },
+    {
+        "Code": "0950011",
+        "Description": "Losse voetplaat per stuk naar maat",
+        "Price": "35.74"
+    },
+    {
+        "Code": "0950020",
+        "Description": "Kuitplaat uit één geheel naar maat",
+        "Price": "63.86"
+    },
+    {
+        "Code": "0950021",
+        "Description": "Losse kuitplaat per stuk naar maat",
+        "Price": "35.74"
+    },
+    {
+        "Code": "100010",
+        "Description": "Werkblad naar maat, helder acrylaat, 8 mm dikte",
+        "Price": "127.69"
+    },
+    {
+        "Code": "100011",
+        "Description": "Werkblad naar maat, helder acrylaat, 10 mm dikte",
+        "Price": "139.71"
+    },
+    {
+        "Code": "100031",
+        "Description": "(Proef)werkblad naar maat, hout incl. montage ijzerwerk.",
+        "Price": "93.14"
+    },
+    {
+        "Code": "100110",
+        "Description": "Opstaande randen (3 st.) 35 mm hoog open hoek geschroefd",
+        "Price": "37.55"
+    },
+    {
+        "Code": "100113",
+        "Description": "Joystick uitsparing",
+        "Price": "16.22"
+    },
+    {
+        "Code": "100120",
+        "Description": "Werkbladbevestiging breedteverstelbare galg 22 mm",
+        "Price": "61.53"
+    },
+    {
+        "Code": "100121",
+        "Description": "Werkbladbevestiging breedteverstelbare galg 18 mm",
+        "Price": "59.17"
+    },
+    {
+        "Code": "100122",
+        "Description": "Dubbele insteeksysteem 22 mm tbv werkblad",
+        "Price": "61.53"
+    },
+    {
+        "Code": "100123",
+        "Description": "Dubbele insteeksysteem 18 mm tbv werkblad",
+        "Price": "0.00"
+    },
+    {
+        "Code": "100124",
+        "Description": "HB dubbel insteeksysteem in hoogte verstelbaar",
+        "Price": "0.00"
+    },
+    {
+        "Code": "100125",
+        "Description": "Werkbladontvangst rond universeel",
+        "Price": "22.66"
+    },
+    {
+        "Code": "100126",
+        "Description": "Werkbladontvangstbuis rond tbv 18 mm bevestigingssysteem",
+        "Price": "0.00"
+    },
+    {
+        "Code": "100127",
+        "Description": "Werkbladontvangstbuis tbv Etac",
+        "Price": "0.00"
+    },
+    {
+        "Code": "100128",
+        "Description": "Werkbladontvangstbuis tbv Rea",
+        "Price": "0.00"
+    },
+    {
+        "Code": "100129",
+        "Description": "Werkbladontvangstbuis Snip/Ibis",
+        "Price": "0.00"
+    },
+    {
+        "Code": "100130",
+        "Description": "Werkbladontvangstbuis Permobil",
+        "Price": "0.00"
+    },
+    {
+        "Code": "100131",
+        "Description": "Werkbladontvangstbuis verstelbaar",
+        "Price": "0.00"
+    },
+    {
+        "Code": "100200",
+        "Description": "Gedeeltelijke bepolstering werkblad",
+        "Price": "96.15"
+    },
+    {
+        "Code": "100201",
+        "Description": "Volledige bepolstering werkblad",
+        "Price": "98.70"
+    },
+    {
+        "Code": "1105710120",
+        "Description": "Positioneringsvest/borstfixatie male, maat XS",
+        "Price": "172.92"
+    },
+    {
+        "Code": "1105710121",
+        "Description": "Positioneringsvest/borstfixatie male, maat S",
+        "Price": "172.94"
+    },
+    {
+        "Code": "1105710122",
+        "Description": "Positioneringsvest/borstfixatie male, maat M",
+        "Price": "172.94"
+    },
+    {
+        "Code": "1105710122Z",
+        "Description": "Positioneringsvest met rits maat M",
+        "Price": "186.33"
+    },
+    {
+        "Code": "1105710123",
+        "Description": "Positioneringsvest/borstfixatie male, maat L",
+        "Price": "185.68"
+    },
+    {
+        "Code": "1105710141",
+        "Description": "Positioneringsvest/borstfixatie female, maat S",
+        "Price": "172.94"
+    },
+    {
+        "Code": "1105710142",
+        "Description": "Positioneringsvest/borstfixatie female, maat M",
+        "Price": "172.94"
+    },
+    {
+        "Code": "1105710321",
+        "Description": "Postioneringsvest flex control/niet flexibel Heren maat S",
+        "Price": "181.55"
+    },
+    {
+        "Code": "1105710322",
+        "Description": "Postioneringsvest flex control/niet flexibel Heren maat M",
+        "Price": "181.55"
+    },
+    {
+        "Code": "1106700020",
+        "Description": "Heupgordel zijkliksluiting XS enkel verstelbaar",
+        "Price": "109.19"
+    },
+    {
+        "Code": "1106700021",
+        "Description": "Heupgordel zijkliksluiting S enkel verstelbaar",
+        "Price": "113.54"
+    },
+    {
+        "Code": "1106700022",
+        "Description": "Heupgordel zijkliksluiting M enkel verstelbaar",
+        "Price": "113.84"
+    },
+    {
+        "Code": "1106700023",
+        "Description": "Heupgordel zijkliksluiting L enkel verstelbaar",
+        "Price": "118.28"
+    },
+    {
+        "Code": "1106700024",
+        "Description": "Heupgordel zijkliksluiting XL enkel verstelbaar",
+        "Price": "122.61"
+    },
+    {
+        "Code": "1106700030",
+        "Description": "Heupgordel drukknopsluiting XS enkel verstelbaar",
+        "Price": "139.00"
+    },
+    {
+        "Code": "1106700031",
+        "Description": "Heupgordel drukknopsluiting S enkel verstelbaar",
+        "Price": "139.00"
+    },
+    {
+        "Code": "1106700032",
+        "Description": "Heupgordel drukknopsluiting M enkel verstelbaar",
+        "Price": "139.00"
+    },
+    {
+        "Code": "1106700033",
+        "Description": "Heupgordel drukknopsluiting L enkel verstelbaar",
+        "Price": "144.47"
+    },
+    {
+        "Code": "1106700040",
+        "Description": "Heupgordel drukknopsluiting XS dubbel verstelbaar",
+        "Price": "169.03"
+    },
+    {
+        "Code": "1106700041",
+        "Description": "Heupgordel drukknopsluiting S dubbel verstelbaar",
+        "Price": "169.03"
+    },
+    {
+        "Code": "1106700042",
+        "Description": "Heupgordel drukknopsluiting M dubbel verstelbaar",
+        "Price": "169.31"
+    },
+    {
+        "Code": "1106700043",
+        "Description": "Heupgordel drukknopsluiting L dubbel verstelbaar",
+        "Price": "173.88"
+    },
+    {
+        "Code": "1106700044",
+        "Description": "Heupgordel drukknopsluiting XL dubbel verstelbaar",
+        "Price": "178.45"
+    },
+    {
+        "Code": "1106700052",
+        "Description": "Heupgordel pingatsluiting dubbel verstelbaar maat M",
+        "Price": "200.32"
+    },
+    {
+        "Code": "1106700421",
+        "Description": "4-punts heupgordel zijkliksluiting enkel verstelbaar, maat S",
+        "Price": "138.13"
+    },
+    {
+        "Code": "1106700431",
+        "Description": "4-punts heupgordel drukknopsluiting dubbel verstelbaar mt. S",
+        "Price": "182.86"
+    },
+    {
+        "Code": "1106700432",
+        "Description": "4-p Heupgordel drukknopsluiting dubbel verstelbaar maat M",
+        "Price": "183.13"
+    },
+    {
+        "Code": "1107770011",
+        "Description": "Zitbroek niet rekbaar, maat S",
+        "Price": "168.37"
+    },
+    {
+        "Code": "1107770012",
+        "Description": "Zitbroek niet rekbaar, maat M",
+        "Price": "168.88"
+    },
+    {
+        "Code": "1107770013",
+        "Description": "Zitbroek niet rekbaar, maat L",
+        "Price": "173.09"
+    },
+    {
+        "Code": "1107770023",
+        "Description": "Zitbroek, rekbaar, maat L",
+        "Price": "173.09"
+    },
+    {
+        "Code": "1109700010",
+        "Description": "Abductie positionering, maat XS",
+        "Price": "146.90"
+    },
+    {
+        "Code": "1109700012",
+        "Description": "Abductie positionering, maat M",
+        "Price": "155.79"
+    },
+    {
+        "Code": "130",
+        "Description": "Digitiser/Adapt SSL file to surface",
+        "Price": "62.28"
+    },
+    {
+        "Code": "130001",
+        "Description": "Aanpassen SSL file naar surface file",
+        "Price": "63.86"
+    },
+    {
+        "Code": "130005",
+        "Description": "Crashtestfee volledige orthese",
+        "Price": "102.10"
+    },
+    {
+        "Code": "130006",
+        "Description": "Crashtestfee voor rug of zitting",
+        "Price": "51.05"
+    },
+    {
+        "Code": "140022",
+        "Description": "Zadelzitting Doc operateur incl bekleding met ss blauw",
+        "Price": "115.12"
+    },
+    {
+        "Code": "140030",
+        "Description": "Tulprug standaard excl beugels en bekleding Megane/Heidelbro",
+        "Price": "129.95"
+    },
+    {
+        "Code": "140032",
+        "Description": "Rug Doc operateur incl bekleding met ss blauw",
+        "Price": "83.72"
+    },
+    {
+        "Code": "140716",
+        "Description": "Armleggers op maat Doc operateur incl bekleding met stamskin",
+        "Price": "62.79"
+    },
+    {
+        "Code": "140930",
+        "Description": "Rugbank incl schuim en freeswerk",
+        "Price": "202.66"
+    },
+    {
+        "Code": "140931",
+        "Description": "Hoofdkussen op maat, gefreesd in aangeleverd traagschuim",
+        "Price": "405.39"
+    },
+    {
+        "Code": "140932",
+        "Description": "Rug op maat model Peereboom incl stoffering",
+        "Price": "266.99"
+    },
+    {
+        "Code": "140933",
+        "Description": "Zitting op maat model Peereboom incl stoffering",
+        "Price": "266.99"
+    },
+    {
+        "Code": "1409999",
+        "Description": "Diversen productie voor derden",
+        "Price": "0.00"
+    },
+    {
+        "Code": "160001",
+        "Description": "Structure Sensor",
+        "Price": "487.38"
+    },
+    {
+        "Code": "160002",
+        "Description": "Detacherings/passingskosten 1 dag",
+        "Price": "523.26"
+    },
+    {
+        "Code": "160003",
+        "Description": "Detacherings/passingskosten 1 dagdeel",
+        "Price": "261.63"
+    },
+    {
+        "Code": "160099",
+        "Description": "Diverse verkoop 21%",
+        "Price": "0.00"
+    },
+    {
+        "Code": "160910",
+        "Description": "Balen geleverd geperst schuim, per kg",
+        "Price": "0.13"
+    },
+    {
+        "Code": "160992",
+        "Description": "Doorberekende verzendkosten",
+        "Price": "13.13"
+    },
+    {
+        "Code": "160993",
+        "Description": "Doorberekende verzendkosten met onderstel",
+        "Price": "45.00"
+    },
+    {
+        "Code": "301010",
+        "Description": "Digitaal stofferen van de orthese",
+        "Price": "478.85"
+    },
+    {
+        "Code": "301016",
+        "Description": "Digitaal stofferen orthese als inlay",
+        "Price": "395.77"
+    },
+    {
+        "Code": "301018",
+        "Description": "Doucheorthese stofferen als inlay",
+        "Price": "500.72"
+    },
+    {
+        "Code": "301020",
+        "Description": "Digitaal stofferen van de orthese zitting",
+        "Price": "277.14"
+    },
+    {
+        "Code": "301023",
+        "Description": "Digitaal stofferen zitting als inlay",
+        "Price": "218.98"
+    },
+    {
+        "Code": "301030",
+        "Description": "Digitaal stofferen van de orthese-rug",
+        "Price": "277.14"
+    },
+    {
+        "Code": "301033",
+        "Description": "Digitaal stofferen rug als inlay",
+        "Price": "218.98"
+    },
+    {
+        "Code": "401010",
+        "Description": "MeerPrice WPS",
+        "Price": "25.53"
+    },
+    {
+        "Code": "401012",
+        "Description": "MeerPrice airmesh",
+        "Price": "35.41"
+    },
+    {
+        "Code": "401020",
+        "Description": "MeerPrice zoomstof rug of zit",
+        "Price": "35.40"
+    },
+    {
+        "Code": "401021",
+        "Description": "MeerPrice leder zit of rug",
+        "Price": "30.63"
+    },
+    {
+        "Code": "401022",
+        "Description": "MeerPrice WPS stofferen ventilatiegaten rug d.m.v. hulzen",
+        "Price": "127.73"
+    },
+    {
+        "Code": "901010",
+        "Description": "Abductieklos uitneembaar",
+        "Price": "198.31"
+    },
+    {
+        "Code": "901020",
+        "Description": "Abductieklos voorwaarts uitneembaar/wegklapbaar",
+        "Price": "202.52"
+    },
+    {
+        "Code": "901030",
+        "Description": "Abductieklos voorwaarts uitneembaar met expander",
+        "Price": "198.31"
+    },
+    {
+        "Code": "901040",
+        "Description": "Abductieklos voorwaarts/naar boven uitneembaar met expander",
+        "Price": "198.31"
+    },
+    {
+        "Code": "901050",
+        "Description": "Abductieklos naar voren uitneembaar Quick release",
+        "Price": "142.82"
+    },
+    {
+        "Code": "901051",
+        "Description": "Abductieklos in hoogte verstelbaar/naar voren quick release",
+        "Price": "198.31"
+    }
+]

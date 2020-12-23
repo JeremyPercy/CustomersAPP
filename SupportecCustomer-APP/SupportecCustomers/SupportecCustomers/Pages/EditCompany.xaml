@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="SupportecCustomers.Pages.EditCompany">
+    <ContentPage.Content>
+         <Grid BackgroundColor="#252525">
+            <StackLayout Padding="40" HorizontalOptions="Center" BackgroundColor="#252525">
+                <Label Text="Edit your Company information" TextColor="White" Margin="40" HorizontalTextAlignment="Center"/>
+                <Label Text="Name:" TextColor="White" />
+                <Entry Placeholder="Name" PlaceholderColor="#707070" x:Name="EntName" HeightRequest="40"/>
+                <Label Text="Address:" TextColor="White" />
+                <Entry Placeholder="Address" PlaceholderColor="#707070" x:Name="EntAddress" HeightRequest="40"/>
+                <Label Text="Zipcode:" TextColor="White" />
+                <Entry Placeholder="Zipcode" PlaceholderColor="#707070" x:Name="EntZipcode" HeightRequest="40"/>
+                <Label Text="City:" TextColor="White" />
+                <Entry Placeholder="City" PlaceholderColor="#707070" x:Name="EntCity" HeightRequest="40"/>
+                <Label Text="Email:" TextColor="White" />
+                <Entry Placeholder="Email" PlaceholderColor="#707070" x:Name="EntEmail" HeightRequest="40"/>
+                <Label Text="Btw code:" TextColor="White" />
+                <Entry Placeholder="BTW Code" PlaceholderColor="#707070" x:Name="EntBtwCode" HeightRequest="40"/>
+                <Button Text="Edit Company" BackgroundColor="#0071A6" TextColor="White" CornerRadius="20" HeightRequest="40" Clicked="BtnEditCompany"></Button>
+            </StackLayout>
+          </Grid>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="SupportecCustomers.Pages.SignUpPage">
+    <ContentPage.Content>
+        <Grid
+            BackgroundColor="#252525">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <StackLayout Grid.Row="0" Margin="0,100,0,0" HorizontalOptions="Center">
+                <Image Source="Supportec_Logo.png" WidthRequest="300" />
+                <Label Text="Customers" TextColor="White" HorizontalTextAlignment="Center"/>
+            </StackLayout>
+            <StackLayout Grid.Row="1" Margin="40,0,40,0" VerticalOptions="CenterAndExpand">
+                <Entry Placeholder="Email" PlaceholderColor="#707070" x:Name="EntEmail" HeightRequest="40"/>
+                <Entry Placeholder="Password" PlaceholderColor="#707070" x:Name="EntPassword" HeightRequest="40" IsPassword="True"/>
+                <Entry Placeholder="Confirm Password" PlaceholderColor="#707070" x:Name="EntConfirmPassword" HeightRequest="40" IsPassword="True"/>
+                <Button Text="Sign Up" BackgroundColor="#0071A6" TextColor="White" CornerRadius="20" HeightRequest="40" x:Name="BtnSignUp" Clicked="BtnSignUp_Clicked"></Button>
+            </StackLayout>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,43 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>pdbonly</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="4.1.0.555618" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.2.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="5.5.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="SecondPage.cs" />
+    <Compile Remove="MyPage.cs" />
+    <Compile Remove="SecondPage.xaml.cs" />
+    <Compile Remove="MainPage.xaml.cs" />
+    <Compile Remove="Pages\MyPage.xaml.cs" />
+    <Compile Remove="Pages\JwtSecurityTokenHandler.cs" />
+    <Compile Remove="Pages\AccountPage.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Remove="SecondPage.xaml" />
+    <EmbeddedResource Remove="MainPage.xaml" />
+    <EmbeddedResource Remove="Pages\MyPage.xaml" />
+    <EmbeddedResource Remove="Pages\EditAccount.xaml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Pages\" />
+    <Folder Include="Models\" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Xamarin.iOS">
+      <HintPath>..\..\..\..\..\..\..\..\..\Library\Frameworks\Xamarin.iOS.framework\Versions\12.14.0.114\lib\mono\Xamarin.iOS\Xamarin.iOS.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

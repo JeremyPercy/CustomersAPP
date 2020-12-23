@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="SupportecCustomers.Pages.ProductDetailPage">
+    <ContentPage.Content>
+        <Grid>
+            <StackLayout>
+                <Grid Padding="10"
+                      BackgroundColor="#252525">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="120" />
+                        <ColumnDefinition Width="60" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="30" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+                    <Image x:Name="PImage"
+                           Grid.Column="0"
+                           Grid.RowSpan="4" />
+                    <Label Text="Name:"
+                           Grid.Column="1"
+                           Grid.Row="0"
+                           FontSize="Medium"
+                           TextColor="White" />
+                    <Label x:Name="PName"
+                           Grid.Column="2"
+                           Grid.Row="0"
+                           FontSize="Medium"
+                           FontAttributes="Bold"
+                           TextColor="White" />
+                    <Label Text="Price:"
+                           Grid.Column="1"
+                           Grid.Row="1"
+                           FontSize="Medium"
+                           TextColor="White" />
+                    <Label x:Name="PPrice"
+                           Grid.Column="2"
+                           Grid.Row="1"
+                           FontSize="Medium"
+                           FontAttributes="Bold"
+                           TextColor="White" />
+                </Grid>
+                <ListView x:Name="LvItems"
+                          SeparatorVisibility="None"
+                          HasUnevenRows="True">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="80" />
+                                        <ColumnDefinition Width="*" />
+                                        <ColumnDefinition Width="80" />
+                                    </Grid.ColumnDefinitions>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="*" />
+                                    </Grid.RowDefinitions>
+                                    <Label Text="{Binding Code}"
+                                           Grid.Column="0"
+                                           Grid.Row="0"
+                                           VerticalOptions="Center" />
+                                    <Label Text="{Binding Description}"
+                                           Grid.Column="1"
+                                           Grid.Row="0"
+                                           VerticalOptions="Center" />
+                                    <Label Text="{Binding Price}"
+                                           Grid.Column="2"
+                                           Grid.Row="0"
+                                           VerticalOptions="Center" />
+                                </Grid>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackLayout>
+            <ActivityIndicator HorizontalOptions="Center"
+                               VerticalOptions="Center"
+                               Color="Black"
+                               IsRunning="True"
+                               x:Name="BusyIndicator" />
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

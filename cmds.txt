@@ -1,0 +1,5 @@
+// create mysql database container
+docker run --name supportec-customers -e MYSQL_ROOT_PASSWORD=root -d mysql:8.0.17
+
+// run database
+docker exec -it supportec-customers mysql -u appuser -p

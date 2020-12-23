@@ -1,0 +1,33 @@
+//Custom variables and mixins
+@import "abstracts/variables";
+@import "abstracts/mixins";
+@import "abstracts/functions";
+
+// Bootstrap
+@import '../../node_modules/bootstrap/dist/css/bootstrap.min.css';
+@import '../../node_modules/font-awesome/css/font-awesome.min.css';
+@import '../../node_modules/alertifyjs/build/css/alertify.min.css';
+@import '../../node_modules/alertifyjs/build/css/themes/bootstrap.min.css';
+
+
+//Custom scss
+
+// Base styles
+@import "base/global";
+@import "base/typography";
+@import "base/buttons";
+@import "base/forms";
+
+// Component styles
+
+// Layout styles
+@import "layout/header";
+@import "layout/footer";
+@import "layout/nav";
+
+// Module styles
+
+// Page styles
+@import "pages/home";
+
+// Vendors

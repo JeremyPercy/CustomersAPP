@@ -1,0 +1,42 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+:root {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: myriad-pro, sans-serif;
+  font-style: normal;
+  font-size: 1.8rem;
+  line-height: 1.7;
+  box-sizing: border-box;
+  background: #252525;
+  color: #FFF
+}
+
+a {
+}
+
+
+img {
+  height: auto;
+  max-width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 100%
+}
+
+span {
+}

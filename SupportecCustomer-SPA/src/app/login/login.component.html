@@ -1,0 +1,49 @@
+<div class="container">
+  <div class="login">
+    <div class="login__logo">
+      <img src="assets/img/Supportec_Logo.svg" alt="Logo Supportec" />
+      <h2 class="login__logo__subtitle">Customers</h2>
+    </div>
+    <div class="login__form">
+      <div class="login__form__buttons">
+        <button class="btn btn-lg btn__login" [ngClass]="{btn__login__bgcolor: loginMode}" (click)="loginToggle()">Login</button><button class="btn btn-lg btn__login" [ngClass]="{btn__login__bgcolor: registerMode}" (click)="registerToggle()">Register</button>
+      </div>
+      <form *ngIf="loginMode" #loginForm="ngForm" (ngSubmit)="login()">
+            <div class="form-group">
+              <label for="userLogin" hidden>Email</label>
+              <input type="Email" name="email" class="form-control" placeholder="Email" required [(ngModel)]="model.email">
+            </div>
+            <div class="form-group">
+              <label for="passwordLogin" hidden>Password</label>
+              <input type="password" name="password" class="form-control" placeholder="Password" required [(ngModel)]="model.password">
+            </div>
+            <button [disabled]="!loginForm.valid" type="submit" class="btn btn-primary btn__login-submit">Login</button>
+        </form>
+        <form *ngIf="registerMode" #registerForm="ngForm" (ngSubmit)="register()">
+            <div class="form-group">
+              <label for="userLogin" hidden>Email</label>
+              <input type="email" name="email" class="form-control" placeholder="Email" required [(ngModel)]="model.email">
+            </div>
+            <div class="form-group">
+              <label for="passwordLogin" hidden>Password</label>
+              <input type="password" name="password" class="form-control" [ngClass]="{'is-invalid': (registerForm.submitted && password.invalid), 'is-valid': password.valid}" placeholder="Password" #password="ngModel" required [(ngModel)]="model.password" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,12}">
+              <div *ngIf="password.invalid && registerForm.submitted" class="invalid-feedback">
+                  <div *ngIf="password?.errors.required" class="small"> Password is required. </div>
+                  <div *ngIf="password?.errors.pattern" class="small"> Must contain at least one number and one uppercase and lowercase letter, and between the 8 and 12 characters.</div>
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="confirmPasswordLogin" hidden>Confirm password</label>
+                <input type="password" name="confirmPassword"  [(ngModel)]="model.confirmPassword" class="form-control" [ngClass]="{'is-invalid': (registerForm.submitted && confirmPassword.invalid), 'is-valid': confirmPassword.valid}"  #confirmPassword="ngModel" placeholder="Confirm password" pattern="{{ password.value }}" required>
+                <div *ngIf=" confirmPassword.invalid && registerForm.submitted" class="invalid-feedback">
+                    <div *ngIf="confirmPassword?.errors.required" class="small"> Confirm password is required. </div>
+                    <div *ngIf="confirmPassword?.errors.pattern" class="small"> Password & Confirm Password does not match.</div>
+                  </div>
+              </div>
+            <button type="submit" class="btn btn-primary btn__login-submit">Register</button>
+        </form>
+
+        <a href="#" class="login__form__forget-password">Forgot password?</a>
+    </div>
+  </div>
+</div>
